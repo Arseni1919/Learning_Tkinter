@@ -1,5 +1,7 @@
 # Learning Tkinter
 
+## About [Tkinter](https://docs.python.org/3/library/tkinter.html)
+
 Python has a lot of GUI frameworks,
 but Tkinter is the only framework that’s built into the Python standard library.
 Tkinter has several strengths.
@@ -16,7 +18,7 @@ This makes it a compelling choice for building GUI applications in Python,
 especially for applications where a modern sheen is unnecessary,
 and the top priority is to build something that’s functional and cross-platform quickly.
 
-Credits:
+## Credits:
 
 - [Real Python Tutorials](https://realpython.com/python-gui-tkinter/)
 - [widgets](https://tkdocs.com/tutorial/widgets.html)
